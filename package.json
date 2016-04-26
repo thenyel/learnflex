@@ -1,0 +1,24 @@
+{
+  "name": "learnflex",
+  "version": "1.0.0",
+  "description": "Learn CSS Flexbox experitments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenyel/learnflex.git"
+  },
+  "keywords": [
+    "flexbox",
+    "css",
+    "learn"
+  ],
+  "author": "Danniel Condez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenyel/learnflex/issues"
+  },
+  "homepage": "https://github.com/thenyel/learnflex#readme"
+}
